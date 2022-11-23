@@ -17,7 +17,11 @@
      $sma = "SMA Negeri Alauddin Makassar";
      $mts = "SMPN 4 Lalabataa";
      $sd = "SDN 15 JOLLE;
+<<<<<<< HEAD
      11
+=======
+     33
+>>>>>>> branch-1
      ?>
     <hr />
     <h2>
